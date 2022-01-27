@@ -1,5 +1,5 @@
 
-# Author : Jephté Piere
+# Author : Jephox
 # Date : September 27, 2021
 #
 # Program that verifies that  pi = 4/1 - 4/3 + 4/5 - 4/7 + ....
