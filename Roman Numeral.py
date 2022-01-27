@@ -1,4 +1,4 @@
-# Author : Jephté Pierre
+# Author : Jephox
 # Date : october 10, 2021
 
 # Function roman takes in parameter an integer n (number) and makes
